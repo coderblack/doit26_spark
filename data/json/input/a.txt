@@ -1,0 +1,6 @@
+{"id":1,"sex":"male","name":"aaa","age":18}
+{"id":2,"sex":"male","name":"bbb","age":}
+{"id":3,"sex":"male","name":"ccc","age":38
+{"id":4,"sex":"female","name":"ddd","age":16}
+{"id":5,"sex":"female","name":eee","age":28}
+{"id":6,"sex":"female","name":"fff","age":16}

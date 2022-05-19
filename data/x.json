@@ -1,0 +1,30 @@
+{
+  "account": "",
+  "appId": "cn.doitedu.app1",
+  "appVersion": "2.2",
+  "carrier": "腾讯移动",
+  "deviceId": "ne0dqfaMeYsl",
+  "deviceType": "HUAWEI-RY-10",
+  "eventId": "productView",
+  "ip": "58.136.145.98",
+  "latitude": 30.598755982100613,
+  "longitude": 114.2961261186026,
+  "netType": "3G",
+  "osName": "android",
+  "osVersion": "7.8",
+  "properties": {
+    "pageId": "791",
+    "productId": "739",
+    "refType": "3",
+    "refUrl": "925",
+    "title": "tKB YbL gAW",
+    "url": "DAT/OEv",
+    "utm_campain": "5",
+    "utm_loctype": "2",
+    "utm_source": "5"
+  },
+  "releaseChannel": "17173游戏",
+  "resolution": "1024*768",
+  "sessionId": "KHzuunyS7vF",
+  "timeStamp": 1622876814301
+}

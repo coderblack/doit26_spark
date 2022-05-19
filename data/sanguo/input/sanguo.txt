@@ -1,0 +1,13 @@
+1,kill,1
+1,guanya,2
+2,kill,2
+2,guanya,3
+3,kill,5
+2,kill,6
+3,guanya,3
+4,kill,6
+4,kill,5
+4,kill,3
+5,kill,2
+5,kill,4
+6,kill,5
